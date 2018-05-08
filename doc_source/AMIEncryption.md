@@ -1,3 +1,5 @@
+pfytlm1988
+
 # AMIs with Encrypted Snapshots<a name="AMIEncryption"></a>
 
 AMIs that are backed by Amazon EBS snapshots can take advantage of Amazon EBS encryption\. Snapshots of both data and root volumes can be encrypted and attached to an AMI\.
